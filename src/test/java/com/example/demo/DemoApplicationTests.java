@@ -9,6 +9,7 @@ class DemoApplicationTests {
 	@Test
 	void load() {
      System.out.println("Muthu");
+	 System.out.println("Muthu");
 	}
 
 }
